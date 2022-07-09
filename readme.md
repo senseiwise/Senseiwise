@@ -1,6 +1,9 @@
-<img src=”https://imgs.search.brave.com/MyB4_FXuAooZ9zUVfRqmz9iRkHRXE47G3MMokUqUi60/rs:fit:450:253:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEveE5yTTRj/R0o4dTNhby9naXBo/eS5naWY.gif" alt=”my banner”>
 
-Hey there 👋
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 I am sensei wise, i have been trying to learn javascript, css, html and python the past few months. I have mastered basic javascript which has given me the ability to
 create discord bots and help others. 
